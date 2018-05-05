@@ -1,0 +1,5 @@
+    NN    NE    NFIX       E        ANU      T      GM     NFORCE  NTYPE
+  2821  5400    32     0.200E+11  0.1670  1.0000  0.0000     91      1
+
+
+    TotleTime:    0.453125  seconds
