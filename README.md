@@ -1,1 +1,2 @@
 # FiniteElementMethod
+三角形常应变单元计算弹性力学平面问题
